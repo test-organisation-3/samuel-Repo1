@@ -1,6 +1,6 @@
-class{
- public static void main(
- {
+class{    #Dev2
+ public static void main()#Dev2
+ {  
   system.out.println("hello)
  }
-}
+}#Dev2
