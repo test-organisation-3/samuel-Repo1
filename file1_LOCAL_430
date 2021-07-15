@@ -1,7 +1,6 @@
-
 class{    #Dev2
  public static void main()#Dev2
  {  
-  system.out.println("hello)  :
+  system.out.println("hello)
  }
 }#Dev2
